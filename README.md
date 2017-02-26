@@ -15,7 +15,7 @@ A health assistant that can tell you whether or not you can eat particular food 
   * Follow the steps on Amazon developer tutorials
 
 ## OTHER SOURCES OF DOCUMENTATION
-  * Amazon Understanding Alexa Custom Skills -https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/overviews/understanding-custom-skills
+  * Amazon Understanding Alexa Custom Skills - https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/overviews/understanding-custom-skills
   
   * Sample Custom Skill - https://github.com/alexa/skill-sample-nodejs-fact
   
