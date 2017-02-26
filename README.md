@@ -2,6 +2,14 @@
 A health assistant that can tell you whether or not you can eat particular food given your medical condition
 
 ## Usage
+(assuming your trigger word is "baymax")
+
+- "alexa, tell baymax I have peanut allergy"
+- "alexa, tell baymax I have seafood allergy"
+- "alexa, ask baymax can I eat an Apple"
+- "alexa, ask baymax can I eat shrimp pasta"
+- "alexa, tell baymax I ate pizza in the morning"
+
   * baymax is an Alexa Skill, that is not published yet, to test the skill on your Echo/Dot/Tap download the contents of alexa_dev folder 
   * zip them and upload them to the lambda function page https://console.aws.amazon.com/lambda/home?region=us-east-1#/
   * Follow the steps on Amazon developer tutorials
