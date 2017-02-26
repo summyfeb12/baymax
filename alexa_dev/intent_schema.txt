@@ -1,0 +1,48 @@
+{
+  "intents": [
+    {
+      "intent": "AskIntent",
+      "slots": [
+        {
+          "name": "food",
+          "type": "AMAZON.Food"
+        },
+        {
+          "name": "drink",
+          "type": "AMAZON.Drink"
+        }
+      ]
+    },
+    {
+      "intent": "TellIntent",
+      "slots":[
+        {
+          "name": "condition",
+          "type": "CONDITIONS"
+        }
+      ]
+    },
+    {
+      "intent": "AteIntent",
+      "slots": [
+        {
+          "name": "food",
+          "type": "AMAZON.Food"
+        },
+        {
+          "name": "drink",
+          "type": "AMAZON.Drink"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

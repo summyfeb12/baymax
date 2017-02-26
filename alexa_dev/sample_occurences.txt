@@ -1,0 +1,40 @@
+AskIntent Can I eat {food}
+AskIntent Can I eat the {food}
+AskIntent Can I eat this {food}
+AskIntent Can I eat an {food}
+AskIntent Can I eat a {food}
+AskIntent Can I drink {drink}
+AskIntent Can I drink this {drink}
+
+TellIntent I have {condition}
+TellIntent I got {condition}
+TellIntent I am on {condition}
+TellIntent I am {condition}
+
+AteIntent I ate {food}
+AteIntent I ate {food} for breakfast
+AteIntent I ate {food} for lunch
+AteIntent I ate {food} for dinner
+AteIntent I ate {food} in the morning
+AteIntent I ate {food} in the afternoon
+AteIntent I ate {food} at noon
+AteIntent I ate {food} in the evening
+AteIntent I ate {food} in the night
+AteIntent I ate {food} at night
+AteIntent I had {food}
+AteIntent I had {food} for breakfast
+AteIntent I had {food} for lunch
+AteIntent I had {food} for dinner
+AteIntent I had {food} in the morning
+AteIntent I had {food} in the afternoon
+AteIntent I had {food} at noon
+AteIntent I had {food} in the evening
+AteIntent I had {food} in the night
+AteIntent I had {food} at night
+AteIntent I drank {drink}
+AteIntent I drank {drink} in the morning
+AteIntent I drank {drink} in the afternoon
+AteIntent I drank {drink} at noon
+AteIntent I drank {drink} in the evening
+AteIntent I drank {drink} in the night
+AteIntent I drank {drink} at night

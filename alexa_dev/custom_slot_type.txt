@@ -1,0 +1,14 @@
+slot type:
+CONDITIONS
+
+values:
+vegan
+vegetarian
+gluten free
+dairy free
+lactose intorelant
+peanut allergy
+shell fish allergy
+cold
+cough
+flu
