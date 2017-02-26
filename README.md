@@ -2,7 +2,7 @@
 A health assistant that can tell you whether or not you can eat particular food given your medical condition
 
 ## Usage
-  * baymax is an Alexa Skill, that is not published yet, to test the skill on your Echo/Dot/Tap download the contents of alexa folder 
+  * baymax is an Alexa Skill, that is not published yet, to test the skill on your Echo/Dot/Tap download the contents of alexa_dev folder 
   * zip them and upload them to the lambda function page https://console.aws.amazon.com/lambda/home?region=us-east-1#/
   * Follow the steps on Amazon developer tutorials
 
